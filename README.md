@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hey%20%F0%9F%91%8B%20What's%20Up%3F&fontSize=42&fontColor=C9D1D9&fontAlignY=55" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=go,java,spring,python,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git&perline=7" />
 </p>
@@ -20,15 +22,29 @@
 
 <br><br>
 
-<h2 align="center">🏆 GitHub Trophies</h2>
+## 👋 A little about me
+
+I'm **Pratyush**, a backend developer who enjoys building things that are unnecessarily complicated until they finally work.
+
+* ⚙️ Building backend systems with **Go**
+* ☁️ Working with **GCP, AWS & Kubernetes**
+* 🗄️ Playing around with **PostgreSQL, MongoDB & Redis**
+* 🔌 Building **REST, gRPC & GraphQL APIs**
+* 🌱 Currently going deeper into **Data Engineering & distributed systems**
+* 🚀 Interested in **backend architecture, cloud infrastructure & scalable systems**
+* 🧠 Constantly learning something I probably didn't need to know
+
+<br>
+
+## 💻 I code with
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=PratSins&theme=darkhub&column=8&margin-w=8&margin-h=8&no-bg=true" />
+  <img src="https://skillicons.dev/icons?i=go,java,spring,python,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github&perline=8" />
 </p>
 
-<br><br>
+<br>
 
-<h2 align="center">🐍 Contribution Graph</h2>
+## 🐍 Contribution Graph
 
 <p align="center">
   <picture>
@@ -43,6 +59,27 @@
     <img
       src="https://raw.githubusercontent.com/PratSins/PratSins/output/github-snake.svg"
       alt="GitHub Contribution Snake"
+    />
+  </picture>
+</p>
+
+<br>
+
+## 👻 Pac-Man
+
+<p align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/PratSins/PratSins/output/pacman-contribution-graph-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://raw.githubusercontent.com/PratSins/PratSins/output/pacman-contribution-graph.svg"
+    />
+    <img
+      src="https://raw.githubusercontent.com/PratSins/PratSins/output/pacman-contribution-graph.svg"
+      alt="Pac-Man Contribution Graph"
     />
   </picture>
 </p>
