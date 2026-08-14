@@ -49,7 +49,7 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br>
 
-## 🐍 Contribution Graph
+
 
 <!-- <p align="center">
   <picture>
