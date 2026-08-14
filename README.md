@@ -9,16 +9,12 @@
 <br>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/pratsingh4069">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="YOUR_TWITTER_URL">
+  <a href="https://x.com/pratyush2024">
     <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="YOUR_DEVTO_URL">
-    <img src="https://img.shields.io/badge/DEV.TO-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" />
   </a>
 </p>
 
@@ -27,7 +23,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=darkhub&column=8&margin-w=8&margin-h=8&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=PratSins&theme=darkhub&column=8&margin-w=8&margin-h=8&no-bg=true" />
 </p>
 
 <br><br>
@@ -38,14 +34,14 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg"
+      srcset="https://raw.githubusercontent.com/PratSins/PratSins/output/github-snake-dark.svg"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+      srcset="https://raw.githubusercontent.com/PratSins/PratSins/output/github-snake.svg"
     />
     <img
-      src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg"
+      src="https://raw.githubusercontent.com/PratSins/PratSins/output/github-snake.svg"
       alt="GitHub Contribution Snake"
     />
   </picture>
