@@ -39,7 +39,7 @@ I'm **Pratyush**, a backend developer who enjoys building things that are unnece
 ## 💻 I code with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,java,spring,python,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github,pytorch&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,python,java,spring,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github,pytorch&perline=8" />
 </p>
 
 <br>
