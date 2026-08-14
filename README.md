@@ -1,38 +1,44 @@
-<p align="center">
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=120&text=Hey%20%F0%9F%91%8B%20What's%20Up%3F&fontSize=42&fontColor=C9D1D9&fontAlignY=55" />
-</p>
-
-<br>
+</p> -->
 
 <!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=go,java,spring,python,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git&perline=7" />
 </p> -->
 
+
+
+
+# Hi, I'm Pratyush 👋
+
+I'm a **backend developer** who enjoys building systems, breaking them, and then figuring out why they broke.
+
+I work primarily with **Go**, **cloud infrastructure**, and **distributed backend systems**, and I enjoy getting deeper into how things work under the hood.
+
+## 👨‍💻 What I do
+
+* ⚙️ Build backend services with **Go**
+* 🔌 Building **REST, gRPC & GraphQL**
+* ☁️ Build and deploy systems on **GCP & AWS**
+* ☸️ Work with **Kubernetes, Docker & CI/CD**
+* 🗄️ Work with **PostgreSQL, MongoDB & Redis**
+* 🧠 Currently going deeper into **Data Engineering, ML & distributed systems**
+* 🚀 Interested in **backend architecture, cloud infrastructure & scalable systems**
+
+* 🧠 Constantly learning something I probably didn't need to know
+
+## 🚀 What I'm interested in
+
+**Backend Engineering · Cloud · Distributed Systems · Data Engineering · Machine Learning**
+
 <br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pratsingh4069">
+<p align="LEFT">
+  <a href="[https://www.linkedin.com/in/pratsingh4069](https://www.linkedin.com/in/pratsingh4069/)">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="https://x.com/pratyush2024">
-    <img src="https://img.shields.io/badge/TWITTER-1DA1F2?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
 </p>
-
-<br><br>
-
-## 👋 A little about me
-
-I'm **Pratyush**, a backend developer who enjoys building things that are unnecessarily complicated until they finally work.
-
-* ⚙️ Building backend systems with **Go**
-* ☁️ Working with **GCP & Kubernetes**
-* 🗄️ Playing around with **PostgreSQL, MongoDB & Redis**
-* 🔌 Building **REST, gRPC & GraphQL APIs**
-* 🌱 Currently going deeper into **Data Engineering & distributed systems**
-* 🚀 Interested in **backend architecture, cloud infrastructure & scalable systems**
-* 🧠 Constantly learning something I probably didn't need to know
 
 <br>
 
