@@ -70,8 +70,6 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br> -->
 
-## 👻 Pac-Man
-
 <p align="center">
   <picture>
     <source
