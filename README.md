@@ -4,9 +4,9 @@
 
 <br>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://skillicons.dev/icons?i=go,java,spring,python,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git&perline=7" />
-</p>
+</p> -->
 
 <br>
 
@@ -27,7 +27,7 @@
 I'm **Pratyush**, a backend developer who enjoys building things that are unnecessarily complicated until they finally work.
 
 * ⚙️ Building backend systems with **Go**
-* ☁️ Working with **GCP, AWS & Kubernetes**
+* ☁️ Working with **GCP & Kubernetes**
 * 🗄️ Playing around with **PostgreSQL, MongoDB & Redis**
 * 🔌 Building **REST, gRPC & GraphQL APIs**
 * 🌱 Currently going deeper into **Data Engineering & distributed systems**
@@ -39,7 +39,7 @@ I'm **Pratyush**, a backend developer who enjoys building things that are unnece
 ## 💻 I code with
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=go,java,spring,python,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github&perline=8" />
+  <img src="https://skillicons.dev/icons?i=go,python,java,spring,python,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github,pytorch&perline=8" />
 </p>
 
 <br>
