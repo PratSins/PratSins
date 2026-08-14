@@ -51,7 +51,7 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 ## 🐍 Contribution Graph
 
-<p align="center">
+<!-- <p align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -68,7 +68,7 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
   </picture>
 </p>
 
-<br>
+<br> -->
 
 ## 👻 Pac-Man
 
