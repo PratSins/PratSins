@@ -24,7 +24,6 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 * 🗄️ Work with **PostgreSQL, MongoDB & Redis**
 * 🧠 Currently going deeper into **Data Engineering, ML & distributed systems**
 * 🚀 Interested in **backend architecture, cloud infrastructure & scalable systems**
-
 * 🧠 Constantly learning something I probably didn't need to know
 
 ## 🚀 What I'm interested in
