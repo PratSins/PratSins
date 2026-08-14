@@ -1,9 +1,12 @@
-name: Generate Snake
+name: Generate Contribution Games
 
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  push:
+    branches:
+      - main
 
 permissions:
   contents: write
@@ -13,6 +16,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Generate Snake
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
@@ -20,12 +24,22 @@ jobs:
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Publish Snake
+      # Generate Pac-Man
+      - name: Generate Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: PratSins
+          games: "pacman"
+
+      # Publish everything together
+      - name: Publish contribution games
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
-          build_dir: dist
           target_branch: output
-          commit_message: "Update contribution snake"
+          build_dir: dist
+          commit_message: "Update contribution games"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
