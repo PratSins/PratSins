@@ -22,13 +22,13 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 * ☁️ Build and deploy systems on **GCP & AWS**
 * ☸️ Work with **Kubernetes, Docker & CI/CD**
 * 🗄️ Work with **PostgreSQL, MongoDB & Redis**
-* 🧠 Currently going deeper into **Data Engineering, ML & distributed systems**
+* 📚 Currently going deeper into **Data Engineering, ML & distributed systems**
 * 🚀 Interested in **backend architecture, cloud infrastructure & scalable systems**
 * 🧠 Constantly learning something I probably didn't need to know
 
 ## 🚀 What I'm interested in
 
-**Backend Engineering · Cloud · Distributed Systems · Data Engineering · Machine Learning**
+**Backend Engineering · Cloud · Distributed Systems · Data Engineering · Machine Learning · Gen AI · Agentic AI · Computer Vision**
 
 <br>
 
