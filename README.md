@@ -18,8 +18,8 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 ## 👨‍💻 What I do
 
 * ⚙️ Build backend services with **Go**
-* 🔌 Building **REST, gRPC & GraphQL**
-* ☁️ Build and deploy systems on **GCP & AWS**
+* 🔌 Building **REST, gRPC & GraphQL** APIs
+* ☁️ Build and deploy systems on **Google Cloud Platform**
 * ☸️ Work with **Kubernetes, Docker & CI/CD**
 * 🗄️ Work with **PostgreSQL, MongoDB & Redis**
 * 📚 Currently going deeper into **Data Engineering, ML & distributed systems**
