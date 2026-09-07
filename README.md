@@ -37,6 +37,11 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
+
+  <a href="https://pratsins.github.io/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+</p>
 </p>
 
 <br>
