@@ -31,7 +31,6 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 **Backend Engineering · Cloud · Distributed Systems · Data Engineering · Machine Learning · Gen AI · Agentic AI · Computer Vision · AI Engineering · Spring Boot · Golang · Kubernetes · GCP · WebRTC**
 
 <br>
----
 
 <p align="LEFT">
   <a href="https://www.linkedin.com/in/pratsingh4069">
@@ -45,7 +44,6 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 </p>
 
 <br>
----
 
 
 ## 💻 I code with
@@ -56,7 +54,6 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br>
 
----
 
 ## 🧠 What I Do
 
