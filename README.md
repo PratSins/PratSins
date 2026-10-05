@@ -53,19 +53,40 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br>
 
-# 🧠 What I Do
+## 🧠 What I Do
 
-| | |
-|---|---|
-| ### ⚙️ Backend Engineering | ### ☁️ Cloud & Distributed Systems |
-| Building **production backend systems in Go**, with a focus on REST, gRPC, GraphQL, concurrency, performance, and clean service architecture. I enjoy turning complex requirements into reliable, scalable APIs. | Building and deploying **cloud-native systems on Google Cloud** using GKE, Cloud SQL, GCS, Redis/Memorystore, Kubernetes, Docker, and CI/CD. I care about observability, resilience, and keeping infrastructure efficient. |
-| ### 🤖 Applied AI | ### 🎥 Real-Time & Product Engineering |
-| Integrating **generative AI and computer vision into real products** — from Gemini-powered video processing and MediaPipe-based vision to AI-enabled APIs and ML pipelines. I’m interested in the gap between AI models and production systems. | Building products that combine **WebRTC, real-time communication, AI, and distributed backends**. I like working across the stack when necessary, from system architecture and networking to the user-facing product. |
+<table>
+<tr>
+<td width="50%">
 
-### 🚀 Currently Exploring
+### 🔧 Backend Engineering
+Building **scalable backend systems in Go** — working with REST, gRPC, GraphQL, concurrency, databases, caching, and performance optimization. I care about clean architecture, reliability, and building services that perform under real workloads.
 
-**Spring Boot · Data Engineering · AI Infrastructure · Distributed Systems · WebRTC · Kubernetes · GCP**
+</td>
+<td width="50%">
 
+### ☁️ Cloud & Distributed Systems
+Designing and deploying **cloud-native systems on Google Cloud and Kubernetes** using GKE, Cloud SQL, GCS, Redis/Memorystore, Docker, and CI/CD. I enjoy working on infrastructure, observability, networking, and distributed systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🤖 Applied AI
+Integrating **generative AI and computer vision into production applications** — working with Gemini, MediaPipe, video processing, and ML pipelines. I'm particularly interested in turning AI capabilities into reliable backend services rather than isolated demos.
+
+</td>
+<td width="50%">
+
+### 🌐 Real-Time & Product Engineering
+Building products that combine **WebRTC, WebSockets, AI, and distributed backends**. I like thinking beyond individual components — from system architecture and networking to user experience and the practical constraints of shipping a real product.
+
+</td>
+</tr>
+</table>
+
+---
 <!-- <p align="center">
   <picture>
     <source
