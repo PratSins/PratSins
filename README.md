@@ -32,6 +32,7 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br>
 ---
+
 <p align="LEFT">
   <a href="https://www.linkedin.com/in/pratsingh4069">
     <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -45,6 +46,8 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br>
 ---
+
+
 ## 💻 I code with
 
 <p align="center">
