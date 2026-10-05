@@ -28,7 +28,7 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 ## 🚀 What I'm interested in
 
-**Backend Engineering · Cloud · Distributed Systems · Data Engineering · Machine Learning · Gen AI · Agentic AI · Computer Vision**
+**Backend Engineering · Cloud · Distributed Systems · Data Engineering · Machine Learning · Gen AI · Agentic AI · Computer Vision · AI Engineering · Spring Boot · Golang · Kubernetes · GCP · WebRTC**
 
 <br>
 
@@ -105,6 +105,7 @@ I approach engineering with a **product mindset** — understanding user needs, 
 </p>
 
 <br> -->
+🛰️ Contribution Univers
 
 <p align="center">
   <picture>
