@@ -61,7 +61,7 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 <tr>
 <td width="50%">
 
-### 🔧 Backend Engineering
+<u><b>🔧 Backend Engineering</b></u>
 Building **scalable backend systems in Go** — working with REST, gRPC, GraphQL, concurrency, databases, caching, and performance optimization. I care about clean architecture, reliability, and building services that perform under real workloads.
 
 </td>
