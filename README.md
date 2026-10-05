@@ -79,8 +79,8 @@ Integrating **generative AI and computer vision into production applications** �
 </td>
 <td width="50%">
 
-### 🌐 Real-Time & Product Engineering
-Building products that combine **WebRTC, WebSockets, AI, and distributed backends**. I like thinking beyond individual components — from system architecture and networking to user experience and the practical constraints of shipping a real product.
+### 📦 Product Thinking
+I approach engineering with a **product mindset** — understanding user needs, defining requirements, evaluating technical trade-offs, and thinking about how technology translates into **user experience and business value**. I enjoy taking ideas from concept to a working product.
 
 </td>
 </tr>
