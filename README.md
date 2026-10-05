@@ -53,7 +53,18 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 
 <br>
 
+# 🧠 What I Do
 
+| | |
+|---|---|
+| ### ⚙️ Backend Engineering | ### ☁️ Cloud & Distributed Systems |
+| Building **production backend systems in Go**, with a focus on REST, gRPC, GraphQL, concurrency, performance, and clean service architecture. I enjoy turning complex requirements into reliable, scalable APIs. | Building and deploying **cloud-native systems on Google Cloud** using GKE, Cloud SQL, GCS, Redis/Memorystore, Kubernetes, Docker, and CI/CD. I care about observability, resilience, and keeping infrastructure efficient. |
+| ### 🤖 Applied AI | ### 🎥 Real-Time & Product Engineering |
+| Integrating **generative AI and computer vision into real products** — from Gemini-powered video processing and MediaPipe-based vision to AI-enabled APIs and ML pipelines. I’m interested in the gap between AI models and production systems. | Building products that combine **WebRTC, real-time communication, AI, and distributed backends**. I like working across the stack when necessary, from system architecture and networking to the user-facing product. |
+
+### 🚀 Currently Exploring
+
+**Spring Boot · Data Engineering · AI Infrastructure · Distributed Systems · WebRTC · Kubernetes · GCP**
 
 <!-- <p align="center">
   <picture>
