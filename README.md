@@ -46,14 +46,6 @@ I work primarily with **Go**, **cloud infrastructure**, and **distributed backen
 <br>
 
 
-## 💻 I code with
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=go,python,java,spring,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github,pytorch&perline=8" />
-</p>
-
-<br>
-
 
 ## 🧠 What I Do
 
@@ -88,7 +80,16 @@ I approach engineering with a **product mindset** — understanding user needs, 
 </tr>
 </table>
 
----
+<br> <br>
+
+## 💻 I code with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,java,spring,ts,graphql,docker,kubernetes,postgres,mongodb,redis,gcp,aws,git,github,pytorch&perline=8" />
+</p>
+
+<br>
+
 <!-- <p align="center">
   <picture>
     <source
