@@ -80,7 +80,7 @@ I approach engineering with a **product mindset** — understanding user needs, 
 </tr>
 </table>
 
-<br> <br>
+<br>
 
 ## 💻 I code with
 
